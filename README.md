@@ -1,4 +1,10 @@
 # Personal Budget and Expense Tracker
+**Made by-**
+- Damanpreet Singh
+- Kshitiz Aggarwal
+- Yash Arya
+
+**Btech IT-1 3rd Semester**
 
 A simple command-line program built in C++ to track personal budgets and expenses using **Object-Oriented Programming (OOP)** principles. The program allows users to manage multiple budget categories, set spending limits, and add or view expenses within each category.
 
